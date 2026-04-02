@@ -104,7 +104,3 @@ metrics, 29(3), 305–325.
 [6] Park, R. E. (1966). Estimation with heteroscedastic error terms. Econometrica, 34(4),
 888.
 
----
-
-## 📁 Structure (Optional)
-
